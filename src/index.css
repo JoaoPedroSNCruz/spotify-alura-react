@@ -3,12 +3,17 @@
   --text-base-dark: #000;
   --text-base-light: #fff;
   --text-sub: #a7a7a7;
+  --text-gray: #b3b3b3;
 
+  --bg-search-bar: #242424;
+  --bg-areas: #121212;
   --bg-icon: #131313;
   --bg-arrow-color: rgba(0, 0, 0, 0.7);
   --bg-top-bar: #61616142;
   --grid-gap: 24px;
   --column-count: 5;
+  --bg-footer-start: #ae2896;
+  --bg-footer-end: #509bf5;
 
   /* Colors Cards */
   --card1: rgb(0, 100, 80);
